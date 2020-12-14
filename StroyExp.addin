@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application StroyExp</Name>
+    <Assembly>StroyExp\StroyExp.dll</Assembly>
+    <FullClassName>StroyExp.App</FullClassName>
+    <ClientId>f23b495d-eb84-479a-993a-19c98a096dd2</ClientId>
+    <VendorId>ru.yandex.thegreenvalley</VendorId>
+    <VendorDescription>thegreenvalley@yandex.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
